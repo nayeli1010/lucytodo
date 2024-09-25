@@ -1,0 +1,197 @@
+#IA_logo{
+    width: 10%;
+    bottom: 0%;
+    position: absolute;
+    left: 8%;
+    z-index: 1;
+}
+#sanmina{
+    width: 7%;
+    bottom: 0%;
+    position: absolute;
+    right: 8%;
+    z-index: 2;
+}
+#tesla {
+    width: 11%;
+    bottom: 0%;
+    position: absolute;
+    left: 45%;
+    z-index: 3;
+}
+
+#canvasCamara{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    /*box-shadow: 5px 5px grey; */
+    z-index: 6;
+  }
+
+  #bar_div{
+    position: absolute;
+    top: 10%;
+    right: 2%;
+    z-index: 7;
+    margin-bottom: 20px;
+    
+}
+#bar{  /* Descripcion de canvas tamaño  */ 
+    /*max-width: 500px;*/
+    width: 900px;
+    height: 800px;
+    
+} 
+
+#linea_div{
+    position: absolute;
+    bottom: 15%;
+    right: 2%;
+    margin-bottom: 20px;
+}
+#linea {
+    width: 900px;
+    height: 800px;
+}
+
+#bar_div1{
+    position: absolute;
+    bottom: 42%;
+    right: 2%;
+    top: 35%;
+    margin-bottom: 20px;
+}
+#bar1{
+    width: 900px;
+    height: 800px;
+}
+#menu{
+width: 200px;
+height: 50px;
+font-size: 1em;
+}
+#tabla{
+    margin-left: 905px;
+}
+th{
+    width: 50px;
+    height: 45px;
+    /*padding-left: 5px;
+    padding-right: 5px;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(115, 171, 171);
+}
+td{
+    width: 50px;
+    height: 70px; 
+    
+}
+#taponaInput{
+    width: 180px;
+    height: 80px;
+    font-size: 1em;
+    font-family: sans-serif;
+    border: 1px solid rgb(244, 241, 241);
+}
+th, td {
+    border: 1px solid rgb(244, 241, 241); /* Borde negro de 1px para celdas (encabezados y datos) */
+    border-collapse: collapse;
+    margin: 25px;
+    font-size: 2em;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 0 0 20px rgba(133, 117, 117, 0.897); 
+  }
+  td:last-child {
+    background-color: #73ABAB
+  }
+  
+#enviar{
+  display: inline-block;
+  padding: 1em 3em;
+  background: #73ABAB;
+  color:  rgb(255, 255, 255);
+  /*border-radius: 1em;*/
+  border:none;
+  /*outline:  solid rgb(69, 140, 150);*/
+  outline-offset: 2px;
+  font-size: 25px; 
+
+  
+}
+ #cerrar {
+    color: red;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 26,
+
+
+  }
+ 
+/*----menu----*/
+nav{
+    max-width: 1000px;
+    margin: auto;
+    background-color: #194775;
+    font-size: 50px;
+    font-family: 'Lucida Sans';
+    font-size: 150%;
+    margin-top: 10px;
+}
+
+.menu-horizontal{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-horizontal > li > a{
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.menu-horizontal > li:hover{
+    background-color: rgb(27, 108, 119);
+}
+.menu-vertical{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 200px;
+    background-color: rgba(38, 62, 129, 0.5);
+}
+
+.menu-horizontal li:hover .menu-vertical{
+    display: block;
+}
+
+.menu-vertical li:hover{
+    background-color: black;
+}
+
+.menu-vertical li a{
+    display: block;
+    color: white;
+    padding: 15px 15px 15px 20px;
+    text-decoration: none;
+}
+#output{
+    font-size: 300%; 
+    text-shadow: rgb(243, 217, 103) 0.1em 0.1em 0.2em;
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+}
+p{
+    margin-left: 10%;
+    top: 10%;
+}
+div.row{
+    margin-left: 43%;
+    top: 14%;
+}

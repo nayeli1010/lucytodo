@@ -1,0 +1,43 @@
+soyserial
+Cuadrante :1
+TA1-:  status :0, percent -->  6.52(%)   IA Inspection : Pass 
+TA2-:  status :0, percent -->  0.77(%)
+TA11-: status :0, percent -->  41.02(%)
+TA12-: status :0, percent -->  33.61(%)   IA Inspection: Pass 
+TB1-:  status :1, percent -->  100(%)   IA Inspection: Pass 
+
+Cuadrante :2
+TA3-:  status :0,  percent -->  28.76(%)   IA Inspection: Pass 
+TA4-:  status :0,  percent -->  2.82(%)   IA Inspection: Pass 
+TA9-:  status :0,  percent -->  16.54(%)   IA Inspection: Pass 
+TA10-: status :0,  percent -->  32.82(%)  IA Inspection: Pass 
+TB2-:  status :1,  percent -->  100(%) IA Inspection: Pass 
+
+Cuadrante :3
+TA5-: status :0, percent -->  35.83(%)   IA Inspection : Pass 
+TA6-: status :0, percent -->  93.2(%)   IA Inspection : Pass 
+TA7-: status :0, percent -->  31.929999999999996(%)   IA Inspection : Pass 
+TA8-: status :0, percent -->  27.139999999999997(%)   IA Inspection : Pass 
+TB3-: status :1, percent -->  100(%)  IA Inspection : Pass 
+
+Cuadrante :4
+TA17-: status :0, percent -->  21.04(%)  IA Inspection : Pass 
+TA18-: status :0, percent -->  16.6(%)  IA Inspection: Pass 
+TG1-:  status :0, percent -->  21.52(%)  IA Inspection: Pass 
+
+Cuadrante :5
+TA15-: status :0, percent -->  41.120000000000005(%)  IA Inspection : Pass 
+TA16-: status :0, percent -->  41.02(%)  IA Inspection : Pass 
+TA19-: status :0, percent -->  79.10000000000001(%)   IA Inspection : Pass 
+TA20-: status :0, percent -->  46.17(%)
+TB4-:  status :0, percent -->  84.32(%)
+
+Cuadrante :6
+TA13-: status :0, percent -->  66.57(%)   IA Inspection : Pass 
+TA14-: status :0, percent -->  19.55(%)   IA Inspection : Pass 
+
+Cuadrante :7
+TA21-: status :0, percent -->  36.77(%) IA Inspection : Pass 
+TC-:   status :0, percent -->  11(%) IA Inspection : Pass 
+
+#
